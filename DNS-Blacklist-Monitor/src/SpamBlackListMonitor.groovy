@@ -175,7 +175,6 @@ def dnsRblProviderList = [
         'spamlist.or.kr',
         'spamrbl.imp.ch',
         't3direct.dnsbl.net.au',
-        'tor.ahbl.org',
         'tor.dnsbl.sectoor.de',
         'torserver.tor.dnsbl.sectoor.de',
         'ubl.lashback.com',
