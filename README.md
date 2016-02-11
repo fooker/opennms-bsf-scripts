@@ -12,6 +12,10 @@ Example poller-configuration.xml
       <parameter key="run-type" value="exec" />
       <parameter key="retry" value="1" />
       <parameter key="timeout" value="60000" />
+      <parameter key="timeout" value="60000" />
+      <parameter key="threads" value="60000" />
+      <parameter key="providers.v4" value="/path/to/my/dnsbl-providers-v4" />
+      <parameter key="providers.v6" value="/path/to/my/dnsbl-providers-v6" />
       <parameter key="file-extensions" value="groovy,gy"/>
       <parameter key="rrd-repository" value="/opt/opennms/share/rrd/response"/>
       <parameter key="rrd-base-name" value="dnsrbl"/>
